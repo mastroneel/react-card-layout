@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+@import url('https://fonts.googleapis.com/css?family=Catamaran');
+
+body {
+  padding: 50px 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.Card {
+  width: 300px;
+  margin: 20px auto;
+  box-shadow: 3px 3px 3px #bbbbbb;
+  border-radius: 3px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 1.4em;
+}
+
+h2 {
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 3em;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: 'Catamaran', sans-serif;
+  padding-top: 10px;
+}
+
+img {
+  border-radius: 3px;
+}
+
+button {
+  font-size: 1.8em;
+  background: transparent;
+  border: none;
+}
+
+button:focus {
+  outline: none;
+}
